@@ -736,9 +736,6 @@ You can learn more about building awesome ecommerce stores with Medusa; check ou
 
 # Author :pen:
 
-[Mustapha Aliyu Galadima](https://mgmustyportfolio-io.onrender.com/)
+[Linkedin](https://www.linkedin.com/in/prince-okuru-9a391122a
 
-[Linkedin](https://www.linkedin.com/in/mustapha-aliyu/)
-
-[Twitter](https://twitter.com/MgsmartMustee/)
 
